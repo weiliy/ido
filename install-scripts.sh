@@ -1,3 +1,3 @@
 #!/bin/bash
-cp -f scripts/*.sh ~/bin/
-chmod +x ~/bin/*.sh 
+cp -f scripts/* ~/bin/
+chmod +x ~/bin/* 
