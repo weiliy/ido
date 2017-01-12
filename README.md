@@ -22,3 +22,8 @@ Map the concepts in Omnifocus:
   - Review
   - Completed
   - Changed
+
+## Commands 
+
+- `ido-input.sh`: Collect the input to inbox
+
